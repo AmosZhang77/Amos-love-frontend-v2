@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4920],{3634:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/Amos-love-frontend-v2/blog/tags/hola","allTagsPath":"/Amos-love-frontend-v2/blog/tags","count":1}')}}]);
